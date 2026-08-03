@@ -46,4 +46,10 @@ presidency_gate_pass/
     └── js/app.js         # Frontend polling, TTS voice alerts, JS logic
 ```
 
+## Local Access
+http://localhost:8501/
+
+
 ## Run Globally
+
+
