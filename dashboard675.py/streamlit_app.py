@@ -18,8 +18,8 @@ import pandas as pd
 from datetime import datetime
 
 
-from app.web_register import register_student
-from app.web_verify import verify_face
+# from app.web_register import register_student
+# from app.web_verify import verify_face
 
 
 # =========================
