@@ -1,8 +1,8 @@
 streamlit
-opencv-python-headless
 numpy
 pandas
 scipy
+opencv-python-headless
 insightface
 onnxruntime
 Pillow
