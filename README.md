@@ -53,4 +53,3 @@ http://localhost:8501/
 ## Run Globally
 https://ai-entrance-security-system-gy7nnaaxst733yndxwhdjq.streamlit.app/
 
-
